@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1729798202 source:a:\proyects\sist_gestion_estacionamiento_vehicular\main.cpp
+	<iostream>
+	<cstdlib>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"MenuManager.h"
+
+1729797971 a:\proyects\sist_gestion_estacionamiento_vehicular\menumanager.h
+
+1729283121 source:a:\proyects\sist_gestion_estacionamiento_vehicular\menumanager.cpp
+	<iostream>
+	<cstdlib>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"MenuManager.h"
+
+1729736240 source:a:\proyects\sist_gestion_estacionamiento_vehicular\vehiculo.cpp
+	<iostream>
+	<cstring>
+	<string>
+	"Vehiculo.h"
+
+1729720387 a:\proyects\sist_gestion_estacionamiento_vehicular\vehiculo.h
+	<string>
+
